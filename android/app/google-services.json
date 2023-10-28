@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852898224382",
+    "project_id": "social-app-flutter-c7174",
+    "storage_bucket": "social-app-flutter-c7174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852898224382:android:14a6455284741bb581adaf",
+        "android_client_info": {
+          "package_name": "com.example.socail_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAemE1UQIi51LF0WbMtAujoFy7-ndojoHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
